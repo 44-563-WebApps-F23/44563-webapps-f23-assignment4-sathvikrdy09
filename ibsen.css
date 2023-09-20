@@ -23,6 +23,14 @@
     background-color: burlywood;
     color: deeppink;
 }
+div.BERTA:hover{
+    color: aqua;
+    text-shadow: 2px 2px 5px red;
+}
+div.MISSTESMAN:hover{
+    color: darkgreen;
+    text-shadow: 2px 2px 5px red;
+}
 table th{
     width: 50%;
     border-collapse: collapse;
