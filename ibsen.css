@@ -1,0 +1,25 @@
+.speech {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    color: darkgreen;
+    background-color: skyblue;
+    transition: backgrund-color 0.3s,color 0.3s;
+}
+.MISSTESMAN{
+    color: orange;
+}
+
+.BERTA{
+    color: bisque;
+}
+
+.direction:hover{
+    background-color: burlywood;
+    color: deeppink;
+}
